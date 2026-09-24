@@ -1,0 +1,16 @@
+{
+  "name": "edw",
+  "owner": {
+    "name": "Eau de Web"
+  },
+  "metadata": {
+    "description": "Eau de Web plugins for Claude Code."
+  },
+  "plugins": [
+    {
+      "name": "edw-drupal",
+      "source": "./",
+      "description": "Shared skills, agents and commands for the Eau de Web Drupal team."
+    }
+  ]
+}
