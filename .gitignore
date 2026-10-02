@@ -3,3 +3,5 @@
 .vscode/
 .claude/settings.local.json
 *.swp
+__pycache__/
+*.pyc

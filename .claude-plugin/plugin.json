@@ -1,9 +1,9 @@
 {
   "name": "edw-drupal",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Shared skills, agents and commands for the Eau de Web Drupal team.",
   "author": {
     "name": "Eau de Web"
   },
-  "keywords": ["drupal", "eaudeweb", "documentation"]
+  "keywords": ["drupal", "eaudeweb", "documentation", "diagrams"]
 }
